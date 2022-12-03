@@ -843,7 +843,7 @@
       color: #fff
     }
   }
-  @media (min-width: 768px){
+  @media (width: 768px){
     .img-fluid-logo {  
       width:90% !important;  
       animation: float 6s ease-in-out infinite;

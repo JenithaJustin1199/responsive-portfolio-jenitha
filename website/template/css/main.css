@@ -911,7 +911,6 @@
   
   .home-area .home-name {
     color: #fff;
-    font-size: 70px;
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: 34px;
@@ -1644,7 +1643,7 @@
   #portfolio .portfolio-section .portfolio-grid .portfolio-wrapper>.img-fluid:hover {
     width: 150%
   }
-  #resume .video-section .portfolio-wrapper>.img-fluid {
+  #resume .video-section .portfolio-grid .portfolio-wrapper>.img-fluid {
     width: 100%;
     height:100%;
     border: 5px solid rgb(90, 151, 255);
@@ -1942,10 +1941,9 @@ body{
 }
 
 
-.context {
-    width: 50%;
+.context {    
     position: absolute;
-    top:30vh;
+    top:35vh;
     
 }
 
